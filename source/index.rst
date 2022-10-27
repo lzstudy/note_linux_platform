@@ -7,8 +7,18 @@
 ==========================================
 
 .. toctree::
-   :maxdepth: 3
+   :caption: 架构 - AMR
    :titlesonly:
+   :maxdepth: 3
+   :glob:
 
-   misc/index
+   arm/nxp/imx8mp/index
+
+.. toctree::
+   :caption: 架构 - MIPS
+   :titlesonly:
+   :maxdepth: 3
+   :glob:
+
+   mips/hlk7621/index
 
