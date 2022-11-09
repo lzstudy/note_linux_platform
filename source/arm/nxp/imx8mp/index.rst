@@ -2,6 +2,7 @@ imx8mp
 ========================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
    base
+   config

@@ -8,7 +8,6 @@
 
 .. toctree::
    :caption: 架构 - AMR
-   :titlesonly:
    :maxdepth: 3
    :glob:
 
@@ -16,7 +15,6 @@
 
 .. toctree::
    :caption: 架构 - MIPS
-   :titlesonly:
    :maxdepth: 3
    :glob:
 
